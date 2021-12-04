@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1862C352-13B4-4966-81B2-E794479289BF}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MuneakiValueObject", "MuneakiValueObj\MuneakiValueObject.csproj", "{B1864840-A5DF-4B1A-A4D3-DC54A38CA4D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MuneakiValueObject_Test", "MuneakiValueObj_Test\MuneakiValueObject_Test.csproj", "{DE45CF6E-AD04-4D27-8049-505037ED31C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1864840-A5DF-4B1A-A4D3-DC54A38CA4D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1864840-A5DF-4B1A-A4D3-DC54A38CA4D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1864840-A5DF-4B1A-A4D3-DC54A38CA4D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1864840-A5DF-4B1A-A4D3-DC54A38CA4D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE45CF6E-AD04-4D27-8049-505037ED31C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE45CF6E-AD04-4D27-8049-505037ED31C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE45CF6E-AD04-4D27-8049-505037ED31C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE45CF6E-AD04-4D27-8049-505037ED31C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E0E1F2C-7C8F-49B3-AC66-EDBF34C501E7}
+	EndGlobalSection
+EndGlobal

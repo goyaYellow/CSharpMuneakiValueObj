@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using MuneakiTools;
 using MuneakiTools.CommonExtentions;
 
-namespace Tools.ValueObject.SizeObj
+namespace MuneakiValueObject.SizeObj
 {
     /// <summary> 長さ </summary>
     /// <remarks> イミュターブルな値オブジェクトです </remarks>

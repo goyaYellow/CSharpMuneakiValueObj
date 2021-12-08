@@ -1,7 +1,7 @@
 ﻿using System;
 using MuneakiTools.CommonExtentions;
 
-namespace Tools.ValueObject
+namespace MuneakiValueObject
 {
     /// <summary>　Int型の値を一つだけ持つ値オブジェクト用の抽象レコード。IComparableや演算子を提供します。 </summary>
     /// <typeparam name="TInherited">こいつを継承したやつが自分の型を渡すべし。自分以外の型を渡した場合は演算子などのエラーチェックで引っかかります</typeparam>

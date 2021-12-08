@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using MuneakiTools;
 using MuneakiTools.CommonExtentions;
 
-namespace Tools.ValueObject.SizeObj
+namespace MuneakiValueObject.SizeObj
 {
     /// <summary> 幅 </summary>
     public record Width : IntValueObject<Width>

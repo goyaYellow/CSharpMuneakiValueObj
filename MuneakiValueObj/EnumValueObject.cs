@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Tools.ValueObject
+namespace MuneakiValueObject
 {
     /// <summary>　Enum型の値を一つだけ持つ値オブジェクト用の抽象クラス。IComparable,IEquatableや演算子を提供します。 </summary>
     /// <typeparam name="TEnum">値のEnum型</typeparam>

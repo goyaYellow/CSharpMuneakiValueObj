@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Xunit;
-using Tools.ValueObject.SizeObj;
+using MuneakiValueObject.SizeObj;
 
 namespace Tools_Test.ValueObject.SizeObj
 {

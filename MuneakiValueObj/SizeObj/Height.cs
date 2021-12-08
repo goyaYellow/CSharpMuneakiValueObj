@@ -1,7 +1,7 @@
 ﻿using System;
 using MuneakiTools.CommonExtentions;
 
-namespace Tools.ValueObject.SizeObj
+namespace MuneakiValueObject.SizeObj
 {
     /// <summary> 高さ </summary>
     /// <remarks> イミュターブルな値オブジェクトです </remarks>

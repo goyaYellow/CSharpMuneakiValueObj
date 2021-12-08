@@ -5,10 +5,11 @@ using System.Collections.Immutable;
 using System.Linq;
 using MuneakiTools;
 using MuneakiTools.CommonExtentions;
+using LinqLike;
 
 #pragma warning disable SA1202 // Elements should be ordered by access
 
-namespace Tools.ValueObject
+namespace MuneakiValueObject
 {
     /// <summary>　ファーストクラスコレクション（リスト）のベース　</summary>
     /// <typeparam name="TValue">リスト格納値の型</typeparam>

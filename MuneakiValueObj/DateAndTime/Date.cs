@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Tools.ValueObject.DateAndTime
+namespace MuneakiValueObject.DateAndTime
 {
     /// <summary> 日にち </summary>
     /// <remarks> イミュターブルな値オブジェクトです </remarks>

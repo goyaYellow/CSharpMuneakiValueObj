@@ -4,8 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Xunit;
-using Tools.ValueObject;
-using Tools.Support.LinqLike;
+using MuneakiValueObject;
+using LinqLike;
 
 namespace Tools_Test.ValueObject
 {

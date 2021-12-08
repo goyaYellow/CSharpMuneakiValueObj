@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Tools.ValueObject.DateAndTime
+namespace MuneakiValueObject.DateAndTime
 {
     /// <summary> 時刻 </summary>
     public record Time : IComparable<Time>

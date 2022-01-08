@@ -1,11 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Xunit;
-using MuneakiValueObject;
 using LinqLike;
+using MuneakiValueObject;
+using Xunit;
 
 namespace Tools_Test.ValueObject
 {
